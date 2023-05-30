@@ -5,7 +5,7 @@
 *      gcc -c arbol.c && gcc -o arbol_bin main.c arbol.o
 *
 *  Ejecuta:
-*      gcc -c arbol.c && gcc -o arbol_bin main.c arbol.o
+*      ./arbol_bin <lista-de-numeros>
 *********************************************************/
 
 
