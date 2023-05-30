@@ -169,6 +169,7 @@ int eliminar(Nodo** raiz, int valor)
         }
         return 1;
     }
+    return 0;
 }
 
 
